@@ -1,3 +1,3 @@
 # DTR
-https://snehadt.streamlit.app/
+https://rutujadc.streamlit.app/
 
